@@ -9,7 +9,7 @@ public class appThread {
         Arrays.fill(arr,1);
         method1(arr);
         method2(arr);
-        System.out.println("проверка задачи");
+        System.out.println("dddddddddddddddddd");
     }
     public static void method2(float[] arr){
         long a =System.currentTimeMillis();
